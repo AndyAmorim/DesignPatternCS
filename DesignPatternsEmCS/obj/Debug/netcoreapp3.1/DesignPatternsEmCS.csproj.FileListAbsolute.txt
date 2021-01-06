@@ -1,0 +1,13 @@
+C:\Users\And. O\source\repos\DesignPatternsEmCS\DesignPatternsEmCS\obj\Debug\netcoreapp3.1\DesignPatternsEmCS.csprojAssemblyReference.cache
+C:\Users\And. O\source\repos\DesignPatternsEmCS\DesignPatternsEmCS\obj\Debug\netcoreapp3.1\DesignPatternsEmCS.AssemblyInfoInputs.cache
+C:\Users\And. O\source\repos\DesignPatternsEmCS\DesignPatternsEmCS\obj\Debug\netcoreapp3.1\DesignPatternsEmCS.AssemblyInfo.cs
+C:\Users\And. O\source\repos\DesignPatternsEmCS\DesignPatternsEmCS\obj\Debug\netcoreapp3.1\DesignPatternsEmCS.csproj.CoreCompileInputs.cache
+C:\Users\And. O\source\repos\DesignPatternsEmCS\DesignPatternsEmCS\bin\Debug\netcoreapp3.1\DesignPatternsEmCS.exe
+C:\Users\And. O\source\repos\DesignPatternsEmCS\DesignPatternsEmCS\bin\Debug\netcoreapp3.1\DesignPatternsEmCS.deps.json
+C:\Users\And. O\source\repos\DesignPatternsEmCS\DesignPatternsEmCS\bin\Debug\netcoreapp3.1\DesignPatternsEmCS.runtimeconfig.json
+C:\Users\And. O\source\repos\DesignPatternsEmCS\DesignPatternsEmCS\bin\Debug\netcoreapp3.1\DesignPatternsEmCS.runtimeconfig.dev.json
+C:\Users\And. O\source\repos\DesignPatternsEmCS\DesignPatternsEmCS\bin\Debug\netcoreapp3.1\DesignPatternsEmCS.dll
+C:\Users\And. O\source\repos\DesignPatternsEmCS\DesignPatternsEmCS\bin\Debug\netcoreapp3.1\DesignPatternsEmCS.pdb
+C:\Users\And. O\source\repos\DesignPatternsEmCS\DesignPatternsEmCS\obj\Debug\netcoreapp3.1\DesignPatternsEmCS.dll
+C:\Users\And. O\source\repos\DesignPatternsEmCS\DesignPatternsEmCS\obj\Debug\netcoreapp3.1\DesignPatternsEmCS.pdb
+C:\Users\And. O\source\repos\DesignPatternsEmCS\DesignPatternsEmCS\obj\Debug\netcoreapp3.1\DesignPatternsEmCS.genruntimeconfig.cache
